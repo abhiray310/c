@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include<conio.h>
+/*if you run this code in turbo c compiler so definitely
+#include<conio.h>
 
 /*
  * @author jelathro
